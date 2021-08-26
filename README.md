@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 📝 I regularly write articles on [bitc0de.github.io](bitc0de.github.io)
+- 📝 I regularly write articles on [bitc0de.github.io](bitc0de.github.io) (under construction)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
