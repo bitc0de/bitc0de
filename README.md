@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer and curious about cybersecurity</h3>
 
 ![bitc0de](https://i.ibb.co/tDQVDXx/carbon.png)
+![hackmyvm](https://hackmyvm.eu/badges/bit.jpg)
 
 <p align="left"> <a href="https://twitter.com/bitc0de" target="blank"><img src="https://img.shields.io/twitter/follow/bitc0de?logo=twitter&style=for-the-badge" alt="bitc0de" /></a> </p>
 
