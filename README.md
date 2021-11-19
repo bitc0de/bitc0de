@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm bitc0de</h1>
 <h3 align="center">A passionate developer and curious about cybersecurity</h3>
-<center>
+
 ![bitc0de](https://i.ibb.co/tDQVDXx/carbon.png)
 
-<p align="left"> <a href="https://twitter.com/bitc0de" target="blank"><img src="https://img.shields.io/twitter/follow/bitc0de?logo=twitter&style=for-the-badge" alt="bitc0de" /></a> </p></center>
+<p align="left"> <a href="https://twitter.com/bitc0de" target="blank"><img src="https://img.shields.io/twitter/follow/bitc0de?logo=twitter&style=for-the-badge" alt="bitc0de" /></a> </p>
 
 - 🌱 I’m currently learning **Cybersecurity**
 
