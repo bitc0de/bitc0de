@@ -5,7 +5,7 @@
 
 <h3 align="left">Ethical hacking platforms:</h3>
 
-![hackmyvm](https://hackmyvm.eu/badges/bit.jpg)
+<img src="https://hackmyvm.eu/badges/bit.jpg"/>
 <img src="http://www.hackthebox.eu/badge/image/306151" alt="Hack The Box">
 
 <p align="left"> <a href="https://twitter.com/bitc0de" target="blank"><img src="https://img.shields.io/twitter/follow/bitc0de?logo=twitter&style=for-the-badge" alt="bitc0de" /></a> </p>
