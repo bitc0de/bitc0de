@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm bitc0de</h1>
+<h1 align="center">Hi 👋, I'm bitc0de</h1> 
 <h3 align="center">A passionate developer and curious about cybersecurity</h3>
 
 ![bitc0de](https://i.ibb.co/tDQVDXx/carbon.png)
