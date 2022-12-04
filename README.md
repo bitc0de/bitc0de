@@ -3,9 +3,6 @@
 
 ![bitc0de](https://i.ibb.co/McyVcKN/b.jpg)
 
-<h3 align="left">Ethical hacking platforms:</h3>
-
-<p align="left"> <a href="https://twitter.com/bitc0de" target="blank"><img src="https://img.shields.io/twitter/follow/bitc0de?logo=twitter&style=for-the-badge" alt="bitc0de" /></a> </p>
 
 - 🌱 Developer at **BIT** [web](https://bit.tebex.io)
 
