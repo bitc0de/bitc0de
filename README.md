@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm bitc0de</h1> 
 <h3 align="center">A passionate developer!</h3>
 
-![bitc0de](https://i.ibb.co/McyVcKN/b.jpg)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bitc0de&show_icons=true&theme=radical)
 
 
