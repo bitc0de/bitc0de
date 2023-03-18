@@ -5,7 +5,7 @@
 
 
 
-- 🌱 Developer at **BIT** [web](https://bit.tebex.io)
+- 🌱 Developer at [**BIT** ](https://bit.tebex.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
