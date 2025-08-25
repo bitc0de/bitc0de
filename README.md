@@ -16,7 +16,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bitc0de&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitc0de&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bitc0de&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
