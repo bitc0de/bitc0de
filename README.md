@@ -12,7 +12,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,astro,bash,bootstrap,cloudflare,docker,express,figma,go,jquery,linux,lua,mongodb,mysql,nextjs,nodejs,npm,nuxtjs,postgres,py,react,sqlite,supabase,svelte,tailwind,vite,vscode,vue,)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bitc0de&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bitc0de&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitc0de&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=bitc0de&theme=dark)
 
